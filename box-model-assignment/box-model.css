@@ -1,0 +1,13 @@
+body {
+  margin: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#wrapper {
+  border: 2px dotted slategray;
+  width: 800px;
+  margin: 0 auto;
+}
