@@ -1,0 +1,63 @@
+.main-container {
+    position: relative;
+    width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.font {
+    font-family: "Open Sans", sans-serif; Serif;
+}
+
+p {
+  font-size: 13px;
+}
+
+p.normal {
+    font-weight: normal;
+}
+
+p.normal {
+    font-style: normal;
+}
+
+
+.small {
+    line-height: 100%;
+}
+
+.text-align-prop {
+  text-align: left;
+}
+
+
+.text-decoration-prop {
+  text-decoration: underline;
+}
+
+.indentprop {
+  text-indent: 20px;
+}
+
+text-shadow-prop {
+  text-shadow: 0px 0px 0px;
+}
+
+.letterspace {
+  letter-spacing: 0px;
+}
+
+.wordspace {
+  word-spacing: 1px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.textshadow {
+    text-shadow: .1px .1px #555555;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
