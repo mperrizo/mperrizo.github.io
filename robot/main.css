@@ -1,0 +1,157 @@
+* {
+  box-sizing: border-box;
+}
+
+.head, .body, .middle, .waist {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.robot {
+  position: relative;
+  width: 500px;
+  margin: 50px auto;
+}
+
+.head {
+  position: absolute;
+  width: 90px;
+  height: 60px;
+  border: 2px solid pink;
+  background: pink;
+  border-radius: 30%;
+}
+
+.atenna {
+  width: 3px;
+  height: 30px;
+  background: pink;
+  position: absolute;
+  top: -33px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.atenna.ball {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: pink;
+  position: absolute;
+  top: -15px;
+  left: -6px;
+}
+
+.eye {
+  width: 10px;
+  height: 10px;
+  background: white;
+  position: absolute;
+  top: 15px;
+  border-radius: 50%;
+}
+
+.eye.left {
+  left: 20px;
+}
+
+.eye.right {
+  right: 20px;
+}
+
+.body {
+  width: 100px;
+  border: 2px solid pink;
+  background: pink;
+  height: 70px;
+  position: absolute;
+  top: 61px;
+  border-radius: 20%;
+}
+
+.body2 {
+  width: 100px;
+  border: 2px solid pink;
+  background: pink;
+  height: 20px;
+  position: absolute;
+  top: 70px;
+  border-radius: 30%;
+}
+
+.mouth {
+  width: 10px;
+  height: 10px;
+  border: 7px solid white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: -30px;
+  border-radius: 50%;
+}
+
+.left-leg {
+  width: 10px;
+  height: 70px;
+  border: 7px solid pink;
+  background: pink;
+  position: absolute;
+  top: 80px;
+  border-radius: 20%;
+  
+}
+
+.right-leg {
+  width: 10px;
+  height: 70px;
+  border: 7px solid pink;
+  background: pink;
+  position: absolute;
+  top: 80px;
+  right: -4px;
+  border-radius: 20%;
+  
+}
+
+.cd-tray {
+  width: 50px;
+  height: 2px;
+  border: 2px solid white;
+  background: white;
+  position: absolute;
+  top: 40px;
+  right: 24px;
+  border-radius: 20%;
+  z-index: 1;
+  
+}
+
+.left.arm {
+  width: 170px;
+  height: 15px;
+  border: 2px solid pink;
+  background: pink;
+  position: absolute;
+  top: 10px;
+  right: 0px;
+  border-radius: 20%;
+  z-index: -1;
+  
+}
+
+.right.arm {
+  width: 170px;
+  height: 15px;
+  border: 2px solid pink;
+  background: pink;
+  position: absolute;
+  top: 10px;
+  right: -70px;
+  border-radius: 20%;
+  z-index: -1;
+  
+}
