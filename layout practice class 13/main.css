@@ -1,0 +1,131 @@
+container {
+    position: relative;
+    width: 960px;
+    margin: 0 auto 0 auto;
+    border: 3px solid #73AD21;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 0px;
+    left: 760px;
+
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 570px;
+    left: 760px;
+
+}
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 570px;
+    left: 0px;
+}
+
+
+
+.boxv {
+    width: 240px;
+    height: 570px;
+    background-color: red;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 940px;
+    left: 0px;
+}
+
+.boxv2 {
+    width: 240px;
+    height: 570px;
+    background-color: green;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 940px;
+    left: 240px;
+}
+
+.boxv3 {
+    width: 240px;
+    height: 570px;
+    background-color: blue;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 940px;
+    left: 480px;
+}
+
+.boxv4 {
+    width: 240px;
+    height: 570px;
+    background-color: yellow;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 940px;
+    left: 720px;
+}
+
+.boxz {
+    width: 920px;
+    height: 120px;
+    background-color: red;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 1660px;
+    left: 20px;
+}
+
+.boxz2 {
+    width: 175px;
+    height: 395px;
+    background-color: green;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 1800px;
+    left: 20px;
+}
+
+.boxz3 {
+    width: 730px;
+    height: 395px;
+    background-color: blue;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    top: 1800px;
+    left: 215px;
+}
