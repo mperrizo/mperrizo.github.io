@@ -98,9 +98,22 @@ header {
   padding: 35px;
 }
 
+.feature2 {
+  text-align: justify;
+  padding: 35px;
+}
+
 .feature-image {
   width: 150px;
   height: 150px;
+  margin: 0 auto 0 auto;
+  border-radius: 10%;
+  overflow: hidden;
+}
+
+.feature-image2 {
+  width: 350px;
+  height: 350px;
   margin: 0 auto 0 auto;
   border-radius: 10%;
   overflow: hidden;
