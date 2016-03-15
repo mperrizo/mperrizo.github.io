@@ -5,6 +5,7 @@
 .main-container {
     width: 1000px;
     margin: 0 auto 0 auto;
+    box-shadow: 2px 2px 2px #551033;
 }
 
 #side {
@@ -24,14 +25,17 @@ left: 500px;
 
 .promo-container {
     background: #7A0B4E;
+    box-shadow: 2px 2px 2px #551033;
 }
 
 .promo-container2 {
     background: #FFFFFF;
+    box-shadow: 2px 2px 2px #551033;
 }
 
 .promo-container3 {
     background: #7A0B4E;
+    box-shadow: 2px 2px 2px #551033;
 }
 
 header {
@@ -91,7 +95,7 @@ header {
 
 .feature {
   text-align: center;
-  padding: 20px;
+  padding: 35px;
 }
 
 .feature-image {
@@ -107,7 +111,7 @@ header {
 }
 
 .product-info {
-  text-align: right;
+  text-align: left;
 }
 
 /* Product Reviews */

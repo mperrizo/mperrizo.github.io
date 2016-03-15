@@ -12,9 +12,9 @@
                     <div class="branding"></div>
                     <nav><BR>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="pill-button" href="#">Home</a>
-                        &nbsp;<a class="pill-button" href="features.html">Features</a>
-                        &nbsp;<a class="pill-button" href="pricing.html">Pricing</a>
-                        &nbsp;<a class="pill-button" href="blog.html">Blog</a><BR><BR>
+                        &nbsp;<a class="pill-button" href="#">Features</a>
+                        &nbsp;<a class="pill-button" href="#">Pricing</a>
+                        &nbsp;<a class="pill-button" href="#">Blog</a><BR><BR>
                     </nav>
                 </header>
             </div>
