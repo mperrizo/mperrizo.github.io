@@ -103,6 +103,7 @@ header {
   padding: 35px;
 }
 
+
 .feature-image {
   width: 150px;
   height: 150px;
@@ -114,6 +115,14 @@ header {
 .feature-image2 {
   width: 350px;
   height: 350px;
+  margin: 0 auto 0 auto;
+  border-radius: 10%;
+  overflow: hidden;
+}
+
+.feature-image3 {
+  width: 200px;
+  height: 25B0px;
   margin: 0 auto 0 auto;
   border-radius: 10%;
   overflow: hidden;
