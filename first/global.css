@@ -1,0 +1,95 @@
+@charset “UTF-8”;
+html { 
+  background: url(http://www.listofimages.com/wallpapers/2014/04/Circles-Pattern-Light-Bokeh-Paint-Pink-1080x1920.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}* {
+margin:0;
+padding:0;
+}
+p {
+line-height:1.25em;
+margin-bottom: 1em;
+}
+
+h1 {
+color: #550000;
+}
+
+#wrapper {
+width: 755px;
+position:relative;
+margin: auto;
+background-color:#550000;
+}
+
+#navcontainer ul {
+background-color: #30041E;
+float: left;
+width: 100%;
+padding-right: 32px; 
+
+}
+#navcontainer ul li { /
+display: inline;
+}
+#navcontainer ul li a {
+	padding: 0.2em 1em;
+text-decoration: none;
+float: left;
+border-right: 1px solid #fff;
+color: #fff;
+}
+
+#navcontainer ul li a:hover {  rollover */
+background-color: #FFAAAA;
+}
+#navcontainer ul li #current {  color to be different */
+background-color: #FFAAAA;
+}
+#main {
+float: left;
+width: 100%;
+background-color:#551033;
+padding-left:2em;
+}
+
+#main ul {
+margin-left:40px;
+}
+ width 
+#pictureL {
+width: 300px;
+float:left;
+margin:10px;
+}
+
+#pictureR {
+width: 50%;
+float:right;
+margin:10px;
+}
+
+#footer {
+color:#fff;
+background-color: #30041E;
+bottom: 0px;
+width: 100%;
+padding-right: 32px; 
+}
+
+#footer p {
+text-align:center;
+margin:0;
+}
+
+#footer a {
+color:#fff;
+text-decoration:none;
+}
+#footer a:hover {
+color:#FFAAAA;
+text-decoration:underline;
+}
