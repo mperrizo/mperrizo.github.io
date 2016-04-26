@@ -3,19 +3,91 @@
 /***************/
 
 /* Color Palette */
-
-
+.color-1 {
+    background-color: #7F4D65;
+}
+.color-2 {
+    background-color: #7F4D65;
+}
+.color-3 {
+    background-color: #FF9BCA;
+}
+.color-4 {
+    background-color: #7F2751;
+}
+.color-5 {
+    background-color: #CC7CA2;
+}
 /* Textures or Patterns*/
+.pattern-1 {
+    background: url("https://s-media-cache-ak0.pinimg.com/736x/ac/75/1d/ac751d077fc749e0f41bb250e5707347.jpg"); background-size: cover;}
+.pattern-2 {
+    background: url("http://img06.deviantart.net/05b0/i/2013/013/b/d/soft_painting_texture_by_draconianrain-d5rfi12.png"); background-size: cover;}
+.pattern-3 {
+    background: url("http://s2.favim.com/orig/32/bedroom-bokeh-fairylights-interior-jsscnnr-Favim.com-258139.jpg"); background-size: cover;}
+.pattern-4 {
+    background: url("http://img09.deviantart.net/a5e7/i/2010/329/3/b/texture_1_by_assassinm_stock-d33mawl.jpg"); background-size: cover;}
+.pattern-5 {
+    background: url("http://s8.favim.com/mini/150930/background-blue-dark-blue-dark-pink-Favim.com-3383708.jpg"); background-size: cover;}
 
+.element.style {
+    padding: 1em;
+    background: steelblue;
+    color: white;
+    border: blue solid 2px;
+    border-radius: 10px;
+}
+
+h1,h2 {
+    font-family: 'Henny Pennt', cursive;
+}
+        
+p {
+    font-family: 'Henny Pennt', cursive;
+font-size: 1.25em;
+line-height: 1.25em
+letter-spacing: 2em; 
+}
 
 /* Imagery */
 
 
 /* Icons */
+.icon-1 {
+    border: none;
+}
+.icon-2 {
+    border: none;
+}
+.icon-3 {
+    border: none;
+}
+.icon-4 {
+    border: none;
+}
+
+.icon-5 {
+    border: none;
+}
 
 
 /* Navigation */
+nav li {
+    list-style: none;
+        text-transform: uppercase;
+    color: steelblue;
+}
 
+nav a: link {
+    color: steelblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav a: hover {
+    color: red;
+}
 
 /* Typography */
 
