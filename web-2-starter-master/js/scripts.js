@@ -1,4 +1,8 @@
 $('article').readmore({
+  
   speed: 300,
-  collapsedHeight: 100,
+  collapsedHeight: 340,
+
+  
+  
 });
