@@ -1,4 +1,4 @@
-$('section').readmore({
+$('p').readmore({
   
   speed: 300,
   collapsedHeight: 100,
