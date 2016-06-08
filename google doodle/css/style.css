@@ -45,8 +45,7 @@ mydesign {
   animation-delay: 2s;
 }
 
-.text {
-  animation: jello .5s;
-  animation-duration: .5s;
-  animation-delay: 2s;
+svg {
+	
 }
+
