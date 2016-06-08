@@ -1,10 +1,26 @@
 /* Stage */
+svg {
+  display: inline-block;
+}
 
 #stage {
     background: white;
     height: 300px;
-    width: 600px;
+    width: 650px;
 }
+
+
+body {
+    opacity: 1;
+    transition: 1s opacity;
+}
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
+
+
 
 /* DO NOT EDIT BELOW THIS LINE */
 
@@ -23,29 +39,5 @@ div {
     margin: 3em auto;
     text-align: center;
     width: 50%;
-}
-
-button {
-    display: inline-block;
-    background-color: #f2f2f2;
-    border: 1px solid #f2f2f2;
-    border-radius: 2px;
-    color: #757575;
-    cursor: default;
-    font-family: arial, sans-serif;
-    font-size: 1em;
-    font-weight: bold;
-    padding: .5em 1em;
-    text-align: center;
-}
-
-mydesign {
-  animation: jello .5s;
-  animation-duration: .5s;
-  animation-delay: 2s;
-}
-
-svg {
-	
 }
 
